@@ -1,0 +1,448 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"container"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"center",
+				"centerReg"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"add",
+				"addTo"
+			],
+			[
+				"sCHEDULE",
+				"Schedule"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"tran",
+				"translate"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"n",
+				"node"
+			],
+			[
+				"sele",
+				"selectAll"
+			],
+			[
+				"TRA",
+				"translate"
+			],
+			[
+				"width",
+				"widthScale"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/NGK/Documents/WEB DEVELOPMENT/home.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 38.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 524.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/NGK/Desktop/header.php",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/bootstrap-2018/index.html",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/bootstrap-2018/node_modules/bootstrap/scss/_variables.scss",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/bootstrap-2018/src/scss/styles.scss",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/TECH_BLOG_ALL_FILES/tech_blog_wp_v1-0/header.php",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/TECH_BLOG_ALL_FILES/tech_blog_wp_v1-0/index.php",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/TECH_BLOG_ALL_FILES/tech_blog_wp_v1-0/footer.php",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/TECH_BLOG_ALL_FILES/tech_blog_wp_v1-0/sidebar.php",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/TECH_BLOG_ALL_FILES/tech_blog_wp_v1-0/functions.php",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/TECH_BLOG_ALL_FILES/tech_blog_wp_v1-0/inc/bootstrap-wp-navwalker.php",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/TECH_BLOG_ALL_FILES/tech_blog_wp_v1-0/src/js/bootstrap-hover.js",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/TECH_BLOG_ALL_FILES/tech_blog_wp_v1-0/inc/customizer.php",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/TECH_BLOG_ALL_FILES/tech_blog_wp_v1-0/dist/css/editor-style.css",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/TECH_BLOG_ALL_FILES/tech_blog_wp_v1-0/inc/widgets.php",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/TECH_BLOG_ALL_FILES/tech_blog_wp_v1-0/src/js/nav-scroll.js",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/landing-page-files/index.html",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/landing-page-files/css/main.scss",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/Portfolio_Updates_Sept9/index.php",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/Portfolio_Updates_Sept9/style.css",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/landing-page-files/css/main.css",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/landing-page-files/css/landing-main.css",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/animating-css-gallery-master/index.html",
+		"/C/Users/NGK/Desktop/header (2).php",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/animating-css-gallery-master/css/main.css",
+		"/C/Users/NGK/Documents/WEB DEVELOPMENT/animating-css-gallery-master/css/main.scss",
+		"/C/Users/NGK/Desktop/animating-css-gallery-master/index.html",
+		"/C/Users/NGK/Desktop/animating-css-gallery-master/css/main.scss",
+		"/C/Users/NGK/Desktop/animating-css-gallery-master/css/main.css",
+		"/C/Users/NGK/Desktop/landing-page-files/index.html",
+		"/C/Users/NGK/Desktop/sass-course-1/index.html",
+		"/C/Users/NGK/Desktop/sass-course-1/css/main.scss",
+		"/C/Users/NGK/Desktop/sass-course-1/css/landing-main.css",
+		"/C/Users/NGK/Desktop/sass-course-1/css/landing-main.sccs.css",
+		"/C/Users/NGK/Desktop/NEW_3DP_May-24/SITEPOINT-EXAMPLE-EDITED-3.html",
+		"/C/Users/NGK/Desktop/NEW_3DP_May-24/css/main-style.css",
+		"/C/Users/NGK/Desktop/NEW_3DP_May-24/index-10-full-layout-1.html",
+		"/C/Users/NGK/Desktop/NEW_3DP_May-24/index-10-full-layout-2.html",
+		"/C/Users/NGK/Desktop/NEW_3DP_May-24/css/style.css",
+		"/C/Users/NGK/Desktop/NEW_3DP_May-24/SITEPOINT-EXAMPLE-EDITED-2.html",
+		"/C/Users/NGK/Desktop/NEW_3DP_May-24/layer-4.png",
+		"/C/Users/NGK/Desktop/index.php",
+		"/C/Users/NGK/Desktop/NEW_3DP_May-18/SITEPOINT-EXAMPLE-EDITED.html",
+		"/C/Users/NGK/Desktop/NEW_3DP_May-18/css/style.css",
+		"/C/Users/NGK/Desktop/style.css",
+		"/C/Users/NGK/Desktop/NEW_3DP_May-18/index-9.html",
+		"/C/Users/NGK/Desktop/projects/art/index.html",
+		"/C/Users/NGK/Desktop/projects/libraries/effects.js",
+		"/C/Users/NGK/Desktop/projects/libraries/basics.js",
+		"/C/Users/NGK/Desktop/htaccess",
+		"/C/Users/NGK/Desktop/JS_Intro_Course_edX/ZIM-Sprite-1/zim-sprite-sheets.html",
+		"/C/Users/NGK/Desktop/zim-interval.html",
+		"/C/Users/NGK/Desktop/ZIM-Pizza-App/Pages-APP-Interval-1.html",
+		"/C/Users/NGK/Desktop/zim-sprite-sheets.html",
+		"/C/Users/NGK/Desktop/JS_Intro_Course_edX/d3-skills.html",
+		"/C/Users/NGK/Desktop/JS_Intro_Course_edX/skills.js",
+		"/C/Users/NGK/Desktop/JS_Intro_Course_edX/graph1-app.html",
+		"/C/Users/NGK/Desktop/Portfolio-FORM/index.php",
+		"/C/Users/NGK/Desktop/footer.php",
+		"/C/Users/NGK/Desktop/app/Pages-APP-20-Copy-4-waiter.html",
+		"/C/Users/NGK/Desktop/app/Pages-APP-24.html",
+		"/C/Users/NGK/Desktop/app/ticker-experiment1.html",
+		"/C/Users/NGK/Desktop/AR-Project-1/ar-1.html",
+		"/C/Users/NGK/Desktop/Pages-APP-24.html",
+		"/C/Users/NGK/Desktop/t.php",
+		"/C/Users/NGK/Desktop/schedule.php",
+		"/C/Users/NGK/Desktop/Updated-Parameterized-Queries-May05/process-complete-goal.php",
+		"/C/Users/NGK/Desktop/Updated-Parameterized-Queries-May05/process-add-your-tool.php",
+		"/C/Users/NGK/Desktop/Updated-Parameterized-Queries-May05/process-add-to-schedule.php",
+		"/C/Users/NGK/Desktop/process-add.php",
+		"/C/Users/NGK/Desktop/Updated-Parameterized-Queries-May05/process-login.php",
+		"/C/Users/NGK/Desktop/Updated-Parameterized-Queries-May05/add-your-tool.php",
+		"/C/Users/NGK/Desktop/process-add-your-tool.php",
+		"/C/Users/NGK/Desktop/process-add-to-schedule.php",
+		"/C/Users/NGK/Desktop/process-complete-goal.php",
+		"/C/Users/NGK/Desktop/Updated-Parameterized-Queries-May05/process-registration.php",
+		"/C/Users/NGK/Desktop/my-tools.php",
+		"/C/Users/NGK/Desktop/add-your-tool.php",
+		"/C/Users/NGK/Desktop/process-registration.php",
+		"/C/Users/NGK/Desktop/login-form.php",
+		"/C/Users/NGK/Desktop/register.php",
+		"/C/Users/NGK/Desktop/process-login.php",
+		"/C/Users/NGK/Desktop/WELLNESS-after-SHERIDAN/wellness-test1/my-goals.php",
+		"/C/Users/NGK/Desktop/WELLNESS-after-SHERIDAN/wellness-test1/schedule.php",
+		"/C/Users/NGK/Desktop/my-schedule.php",
+		"/C/Users/NGK/Desktop/my-goals.php",
+		"/C/Users/NGK/Desktop/WELLNESS-after-SHERIDAN/wellness-test1/my-account.php",
+		"/C/Users/NGK/Desktop/WELLNESS-after-SHERIDAN/wellness-test1/process-newtool-fromschedpage.php",
+		"/C/Users/NGK/Desktop/WELLNESS-after-SHERIDAN/wellness-test1/my-schedule.php",
+		"/C/Users/NGK/Desktop/ticker-experiment1.html",
+		"/C/Users/NGK/Desktop/css2.css",
+		"/C/Users/NGK/AppData/Local/Temp/Rar$DIa10404.40559/config.php",
+		"/C/Users/NGK/Desktop/nav.php",
+		"/C/Users/NGK/Desktop/MY EDITS/wellness-test1/includes/header.php",
+		"/C/Users/NGK/Desktop/MY EDITS/wellness-test1_Evelyn_April27-MomsComp/wellness-test1/index.php",
+		"/C/Users/NGK/Desktop/wellness-test1/includes/header.php",
+		"/C/Users/NGK/Desktop/wellness-test1/includes/stylesheets/completestyle.css",
+		"/C/Users/NGK/Desktop/wellness-test1/includes/stylesheets/css2.css",
+		"/C/Users/NGK/Desktop/wellness-test1/index.php",
+		"/C/Users/NGK/Desktop/html5-boilerplate_v6.0.1/css/main.css",
+		"/C/Users/NGK/Desktop/wellness-test1/includes/nav.php",
+		"/C/Users/NGK/Desktop/PORTFOLIO-April20/index.php",
+		"/C/Users/NGK/Desktop/PORTFOLIO-April20/loop-portfolio.php",
+		"/C/Users/NGK/Desktop/my-ideas.php",
+		"/C/Users/NGK/Desktop/index (1).php",
+		"/C/Users/NGK/Desktop/PORTFOLIO-PHP-April17/dashboard.php",
+		"/C/Users/NGK/Desktop/PORTFOLIO-PHP-April17/add-item.php",
+		"/C/Users/NGK/Desktop/PORTFOLIO-PHP-April17/update-item-form.php",
+		"/C/Users/NGK/Desktop/PORTFOLIO-PHP-April17/login-form.php",
+		"/C/Users/NGK/Desktop/PORTFOLIO-PHP-April17/dashboard-header.php",
+		"/C/Users/NGK/Desktop/PORTFOLIO-PHP-April17/dashboard-footer.php",
+		"/C/Users/NGK/Desktop/PORTFOLIO-PHP-April17/login.php",
+		"/C/Users/NGK/Desktop/PORTFOLIO-PHP-April17/dashboard-style.css",
+		"/C/Users/NGK/Desktop/PORTFOLIO-PHP-April17/view-item.php",
+		"/C/Users/NGK/Desktop/PORTFOLIO-PHP-April17/dashboard.html",
+		"/C/Users/NGK/Desktop/my-goals-stmt-run-twice.php",
+		"/C/Users/NGK/Desktop/PORTFOLIO-PHP-April17/footer.php",
+		"/C/Users/NGK/Desktop/IC - FinalAssignment-April17/ZIMdots-ADD-PAGES-2.html",
+		"/C/Users/NGK/Desktop/IC - FinalAssignment-April17/index.html",
+		"/C/Users/NGK/Desktop/WELLNESS-TOOLBOX-GROUP2/April 6 Files/GROUP2-FINAL - April 6/Upload These Pages - April 6/schedule.php",
+		"/C/Users/NGK/Desktop/WELLNESS-TOOLBOX-GROUP2/April 6 Files/GROUP2-FINAL - April 6/Upload These Pages - April 6/my-tools.php",
+		"/C/Users/NGK/Desktop/WELLNESS-TOOLBOX-GROUP2/April 6 Files/GROUP2-FINAL - April 6/Upload These Pages - April 6/process-add-to-schedule.php",
+		"/C/Users/NGK/Desktop/WELLNESS-TOOLBOX-GROUP2/April 6 Files/GROUP2-FINAL - April 6/Upload These Pages - April 6/add-to-schedule.php",
+		"/C/Users/NGK/Desktop/PORTFOLIO-APRIL3/process-update-article.php",
+		"/C/Users/NGK/Desktop/PORTFOLIO-APRIL3/dashboard.php",
+		"/C/Users/NGK/Desktop/PORTFOLIO-APRIL3/process-delete.php",
+		"/C/Users/NGK/Desktop/PORTFOLIO-APRIL3/process-add-item.php",
+		"/C/Users/NGK/Desktop/PORTFOLIO-APRIL3/add-item.php",
+		"/C/Users/NGK/Desktop/PORTFOLIO-APRIL3/process-login.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"4",
+			"$theme-colors"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/NGK/Documents/WEB DEVELOPMENT/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bt-2-project-sublime.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 154.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
